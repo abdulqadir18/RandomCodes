@@ -1,4 +1,4 @@
-package Java_Practice.oops_class_inheritance1;
+package oops_class_inheritance1;
 
 class A{
   int a;
